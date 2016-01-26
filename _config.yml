@@ -1,0 +1,14 @@
+layout_spectrum: 0.6661046
+color:
+  saturation: 0.4241147
+  lightness: 0.227656
+  brandStrength: 0.7225969
+  brandColors:
+    - '#1F1715'
+    - '#908066'
+    - '#5B4D39'
+    - '#D0BC9B'
+    - '#FBF1D7'
+  rhythmicContrast: 0.3128162
+typography_spectrum: 0.7478921
+name: New England News Journal
