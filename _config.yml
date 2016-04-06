@@ -1,15 +1,18 @@
-layout_spectrum: 0.6661046
-favicon: null
-name: New England News Journal
-purpose: []
+color:
+  brandStrength: 0.7225969
+  saturation: 0.4241147
+  brandColors:
+    - '#060606'
+    - '#30384B'
+    - '#912226'
+    - '#918986'
+    - '#E9AC9A'
+  lightness: 0.227656
+  rhythmicContrast: 0.3128162
 analytics:
-  twitter: null
-  google: null
   facebook: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+  google: null
+  twitter: null
 collections:
   - index:
       navigable: true
@@ -23,18 +26,15 @@ collections:
     permalink:
       path: '/:title/'
 cta:
+  domain: null
   version: null
   bucket: null
-  domain: null
-color:
-  brandStrength: 0.7225969
-  lightness: 0.227656
-  saturation: 0.4241147
-  rhythmicContrast: 0.3128162
-  brandColors:
-    - '#060606'
-    - '#30384B'
-    - '#912226'
-    - '#918986'
-    - '#E9AC9A'
+favicon: null
+layout_spectrum: 0.6661046
+purpose: []
+name: New England News Journal
+opengraph:
+  image: null
+  type: null
+  appId: null
 typography_spectrum: 0.7478921
